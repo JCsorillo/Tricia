@@ -1,0 +1,26 @@
+{
+    "name": "Tricia Salazar - NISU | CICS",
+    "short_name": "Tricia Salazar",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "description": "Official site of Tricia Salazar, author of the children's book 'Blue'.",
+    "icons": [
+      {
+        "src": "apple-touch-icon.png",
+        "sizes": "182x182",
+        "type": "image/png"
+      },
+      {
+        "src": "favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "favicon-16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      }
+    ]
+  }
